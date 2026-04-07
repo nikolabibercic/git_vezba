@@ -1,1 +1,1 @@
-# git_vezba
+Ovo je izmena koju je napravio Nikola
